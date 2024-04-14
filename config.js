@@ -10,7 +10,7 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
 //---------[ Añada los numeros a ser Propietario/a ]---------
 
-global.owner = [['573147616444', 'ＰＲＯＰＩＥＴＡＲＩＯ', true], ['593968585383'], ['5492266466080'], ['5492266613038'], ['5491155983299'], ['595986172767'], ['5492964650915']]
+global.owner = [['528241050228', 'ＰＲＯＰＩＥＴＡＲＩＯ', true], ['5492964650915']]
 global.mods = []
 global.prems = []
 
@@ -75,18 +75,13 @@ global.moment = moment
 //------------------------[ Stickers ]-----------------------------
 
 global.packname = '𝙏𝙤𝙢𝙖 𝙩𝙪 𝙨𝙩𝙞𝙘𝙠𝙚𝙧'
-global.author = '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿'
+global.author = '𝘼𝙡𝙘𝙖𝘽𝙤𝙩.𝙫24'
 
 //------------[ Versión | Nombre | cuentas ]------------
 
-global.wm = '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿'
+global.wm = '𝘼𝙡𝙘𝙖𝘽𝙤𝙩.𝙫24'
 global.vs = '1.5.7'
-global.yt = 'https://www.youtube.com/@elrebelde.21'
-global.tiktok = 'tiktok.com/@elrebelde21'
-global.md = 'https://github.com/elrebelde21/LoliBot-MD'
-global.fb = 'https://www.facebook.com/elrebelde21'
-global.face = 'https://www.facebook.com/groups/872989990425789/'
-
+global.ig = 'https://www.instagram.com/alcashop.ff?'
 global.nna = 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A' //Update
 global.nn = 'https://chat.whatsapp.com/HNDVUxHphPzG3cJHIwCaX5' //Grupo 1
 global.nnn = 'https://chat.whatsapp.com/H4hxytyGvucIF1k0UAR7es' //Grupo 2
@@ -95,7 +90,7 @@ global.nnnt2 = 'https://chat.whatsapp.com/K7RzcVdxGqhGP5dCpVENSI' // Grupo COL 2
 global.nnntt = 'https://chat.whatsapp.com/IB9Vs7mZ03BBkH3reCU8Dw' //Grupo COL 3
 global.nnnttt = 'https://chat.whatsapp.com/KlqNmoUcVnsGJxIfATIDrK' //enlace lolibot
 global.nnntttt = 'https://chat.whatsapp.com/FRkr7jJHSJA5OjVtE64dDs' //Grupo ayuda sobre el bot
-global.bot = 'Wa.me/573147616444'
+global.bot = 'Wa.me/8241050228'
 global.asistencia = `${fb}`
 global.redes = [nna, yt, nn, md, tiktok, fb, nnn, face]
 
@@ -122,11 +117,11 @@ global.rg = '『✅ 𝙍𝙀𝙎𝙐𝙇𝙏𝘼𝘿𝙊𝙎 ✅』\n\n'
 global.resultado = rg
 global.ag = '『⚠️ 𝘼𝘿𝙑𝙀𝙍𝙏𝙀𝙉𝘾𝙄𝘼 ⚠️』\n\n'
 global.advertencia = ag
-global.iig = '『❕ 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝘾𝙄𝙊𝙉 』\n\n'
+global.iig = '『 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝘾𝙄𝙊𝙉 』\n\n'
 global.informacion = iig
 global.fg = '『❌ 𝙀𝙍𝙍𝙊𝙍 ❌』\n\n'
 global.fallo = fg
-global.mg = '『❗️ 𝙇𝙊 𝙐𝙎𝙊 𝙈𝘼𝙇❗』\n\n'
+global.mg = '『❗️𝙇𝙊 𝙐𝙎𝙊 𝙈𝘼𝙇❗』\n\n'
 global.mal = mg
 global.eeg = '『📩 𝙍𝙀𝙋𝙊𝙍𝙏𝙀 📩』\n\n'
 global.envio = eeg
